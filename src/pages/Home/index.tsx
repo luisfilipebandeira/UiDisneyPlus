@@ -1,15 +1,13 @@
 import React from 'react';
 
-import {View} from 'react-native'
+import { Container } from './styles';
 
-import {Container} from './styles'
-
-const Home: React.FC = () => {
+const Src: React.FC = () => {
   return (
-      <View>
-
-      </View>
+    <Container>
+        
+    </Container>
   );
 }
- 
-export default Home;
+
+export default Src;

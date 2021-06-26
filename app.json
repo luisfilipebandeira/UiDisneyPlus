@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "UiCloneDisneyPlus",
-    "slug": "UiCloneDisneyPlus",
+    "name": "inputPassword",
+    "slug": "inputPassword",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
